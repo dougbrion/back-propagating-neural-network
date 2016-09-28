@@ -25,6 +25,7 @@ public:
   void setOutput(double val) { output = val; }
   double getOutput(void) const { return output; }
   void feedForward(const layer &precedingLayer);
+  void calcOutputGrads(double target);
 
 private:
   double output;
@@ -75,6 +76,9 @@ public:
 // Private members consits of the array of layers in the network itself
 private:
   vector<layer> layers;
+  double error;
+  double averageError;
+  double averageSmoothFactor;
 };
 
 // Fills the network up with the layers and in the layers the neurons for the net
@@ -111,7 +115,43 @@ void network::feedForward(const vector<double> &inputs) {
 }
 
 void network::backPropagation(const vector<double> &targets) {
+  // Calculate net error
+  layer &outputLayer = layers.back();
+  error = 0.0;
 
+  for (int i = 0; i < outputLayer.size() - 1; ++i) {
+    double delta = targets[i] - outputLayer[i].getOutput();
+    error += delta * delta;
+  }
+
+  error /= outputLayer.size() - 1;
+  error = sqrt(error);
+
+  averageError = (averageError * averageSmoothFactor + error) / (averageSmoothFactor + 1.0);
+
+  // Output layer gradient
+  for (int i = 0; i < outputLayer.size() - 1; ++i) {
+    outputLayer[i].calcOutputGrads(targets[i]);
+  }
+
+  // Hidden layers gradients
+  for (int layerNumber = layers.size() - 2; layerNumber > 0; --layerNumber) {
+    layer &hiddenLayer = layers[layerNumber];
+    layer &nextLayer = layers[layerNumber + 1];
+
+    for (int i = 0; i < hiddenLayer.size(); ++i) {
+      hiddenLayer[i].calcHiddenGrads(nextLayer);
+    }
+  }
+
+  for (int layerNumber = layers.size() - 1; layerNumber > 0; --layerNumber) {
+    layer &refLayer = layers[layerNumber];
+    layer &precedingLayer = layers[layerNumber - 1];
+
+    for (int i = 0; i < refLayer.size() - 1; ++i) {
+      refLayer[i].updateInputWeights(precedingLayer);
+    }
+  }
 }
 
 int main () {
