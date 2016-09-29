@@ -26,14 +26,20 @@ public:
   double getOutput(void) const { return output; }
   void feedForward(const layer &precedingLayer);
   void calcOutputGrads(double target);
+  void calcHiddenGrads(const layer &nextLayer);
+  void updateInputWeights(layer &precedingLayer);
 
 private:
-  double output;
+  static double eta; // 0 - 1
+  static double alpha; // 0 -1
   static double randomWeightGen(void) { return rand() / double(RAND_MAX); }
-  vector<link> outputWeight;
   static double transferFunction(double x);
   static double transferFunctionDerivative(double x);
+  vector<link> outputWeight;
+  double output;
+  double dowSum(const layer &nextLayer) const;
   int myIndex;
+  double gradient;
 };
 
 neuron::neuron(unsigned numberOutputs, int index) {
@@ -43,6 +49,41 @@ neuron::neuron(unsigned numberOutputs, int index) {
   }
 
   myIndex = index;
+}
+
+double neuron::eta = 0.15;
+double neuron::alpha = 0.5;
+
+void neuron::updateInputWeights(layer &precedingLayer) {
+  for (int i = 0; i < precedingLayer.size(); ++i) {
+    neuron &refNeuron = precedingLayer[i];
+    double deltaWeightOld = refNeuron.outputWeight[myIndex].deltaWeight;
+
+    double deltaWeightNew = eta * refNeuron.getOutput() * gradient + alpha * deltaWeightOld;
+
+    refNeuron.outputWeight[myIndex].deltaWeight = deltaWeightNew;
+    refNeuron.outputWeight[myIndex].weight += deltaWeightNew;
+  }
+}
+
+double neuron::dowSum(const layer &nextLayer) const {
+  double sum = 0.0;
+
+  for (int i = 0; i < nextLayer.size() - 1; ++i) {
+    sum += outputWeight[i].weight * nextLayer[i].gradient;
+  }
+
+  return sum;
+}
+
+void neuron::calcOutputGrads(double target) {
+  double delta = target - output;
+  gradient = delta * neuron::transferFunctionDerivative(output);
+}
+
+void neuron::calcHiddenGrads(const layer &nextLayer) {
+  double dow = dowSum(nextLayer);
+  gradient = dow * neuron::transferFunctionDerivative(output);
 }
 
 void neuron::transferFunction(double x) {
@@ -71,7 +112,7 @@ public:
   network(const vector<unsigned> &topology);
   void feedForward(const vector<double> &inputs);
   void backPropagation(const vector<double> &targets);
-  void receiveResults(vector<double> &results) const {}
+  void receiveResults(vector<double> &results) const;
 
 // Private members consits of the array of layers in the network itself
 private:
@@ -96,6 +137,14 @@ network::network(const vector<unsigned> &topology){
       layers.back().push_back(neuron(numberOutputs, neuronNumber));
       cout << "Made a new Neuron in layer " << layerNumber << endl;
     }
+  }
+}
+
+void network::receiveResults(vector<double> &results) const {
+  results.clear();
+
+  for (int i = 0; i < layers.back().size() - 1; ++i) {
+    results.push_back(layers.back()[i].getOutput());
   }
 }
 
