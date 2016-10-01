@@ -99,7 +99,7 @@ void neuron::feedForward(const layer &precedingLayer) {
 
   // Sum the outputs from the preceding layer, these now are our inputs
   for (int i = 0; i < precedingLayer.size(); ++i) {
-    sum += precedingLayer[i].getOutput() * precedingLayer[i].outputWeight[index].weight;
+    sum += precedingLayer[i].getOutput() * precedingLayer[i].outputWeight[myIndex].weight;
   }
 
   output = neuron::transferFunction(sum);
@@ -213,13 +213,13 @@ int main () {
 
   network myNetwork(topology);
 
-  vector<double> inputs;
-  vector<double> targets;
-  vector<double> results;
+  vector<double> input;
+  vector<double> target;
+  vector<double> result;
 
-  myNetwork.feedForward(inputs);
-  myNetwork.backPropagation(targets);
-  myNetwork.receiveResults(results);
+  myNetwork.feedForward(input);
+  myNetwork.backPropagation(target);
+  // myNetwork.receiveResults(results);
 
   return 0;
 }
