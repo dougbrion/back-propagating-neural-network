@@ -86,11 +86,11 @@ void neuron::calcHiddenGrads(const layer &nextLayer) {
   gradient = dow * neuron::transferFunctionDerivative(output);
 }
 
-void neuron::transferFunction(double x) {
+double neuron::transferFunction(double x) {
   return tanh(x);
 }
 
-void neuron::transferFunctionDerivative(double x) {
+double neuron::transferFunctionDerivative(double x) {
   return 1.0 - (tanh(x) * tanh(x));
 }
 
