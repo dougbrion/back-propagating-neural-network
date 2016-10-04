@@ -18,6 +18,10 @@ struct link {
 // A layer in the neural network consists of an array of neurons which can be easily accessed using a vector
 typedef vector<neuron> layer;
 
+class training {
+
+}
+
 // Class for the neuron object
 class neuron {
 public:
@@ -204,22 +208,29 @@ void network::backPropagation(const vector<double> &targets) {
 }
 
 int main () {
-
+  training trainingData("*/tmp/training.txt");
 
   vector<unsigned> topology;
-  topology.push_back(3);
-  topology.push_back(2);
-  topology.push_back(1);
 
+  trainingData.getTopology(topology);
   network myNetwork(topology);
 
-  vector<double> input;
-  vector<double> target;
-  vector<double> result;
+  vector<double> input, target, result;
+  int trainingPass = 0;
+
+  while (!trainingData.isEof()) {
+    ++trainingPass;
+    cout << endl << "Pass " << trainingPass;
+
+    if (trainingData.nextInputs(input) != topology[0]) {
+      break;
+    }
+    
+  }
 
   myNetwork.feedForward(input);
   myNetwork.backPropagation(target);
-  // myNetwork.receiveResults(results);
+  myNetwork.receiveResults(result);
 
   return 0;
 }
