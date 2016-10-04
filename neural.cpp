@@ -14,6 +14,7 @@ using namespace std;
 class neuron;
 class network;
 
+// Structure for the arcs linking the different nodes
 struct link {
   double weight;
   double deltaWeight;
@@ -22,6 +23,7 @@ struct link {
 // A layer in the neural network consists of an array of neurons which can be easily accessed using a vector
 typedef vector<neuron> layer;
 
+// Class for inputing and the training data and training the artificial neural network
 class training {
 public:
   training(const string filename);
@@ -38,6 +40,7 @@ private:
 void training::getTopology(vector<unsigned> &topology) {
   string line;
 }
+
 // Class for the neuron object
 class neuron {
 public:
@@ -50,8 +53,8 @@ public:
   void updateInputWeights(layer &precedingLayer);
 
 private:
-  static double eta; // 0 - 1
-  static double alpha; // 0 -1
+  static double eta; // in the range 0 - 1
+  static double alpha; // in the range 0 -1
   static double randomWeightGen(void) { return rand() / double(RAND_MAX); }
   static double transferFunction(double x);
   static double transferFunctionDerivative(double x);
@@ -71,9 +74,10 @@ neuron::neuron(unsigned numberOutputs, int index) {
   myIndex = index;
 }
 
-double neuron::eta = 0.15;
-double neuron::alpha = 0.5;
+double neuron::eta = 0.15; // initialise eta within the given range 0 - 1
+double neuron::alpha = 0.5; // initiallise alpha within the given range 0 - 1
 
+// Function within the object neuron for updating the weights of the different arcs between layers
 void neuron::updateInputWeights(layer &precedingLayer) {
   for (int i = 0; i < precedingLayer.size(); ++i) {
     neuron &refNeuron = precedingLayer[i];
@@ -86,6 +90,7 @@ void neuron::updateInputWeights(layer &precedingLayer) {
   }
 }
 
+// Function in neuron for calculating the sum of the weights and gradients between the layers
 double neuron::dowSum(const layer &nextLayer) const {
   double sum = 0.0;
 
@@ -96,19 +101,23 @@ double neuron::dowSum(const layer &nextLayer) const {
   return sum;
 }
 
+// Calculate the gradient of the outputs using the transfer function derivative
 void neuron::calcOutputGrads(double target) {
   double delta = target - output;
   gradient = delta * neuron::transferFunctionDerivative(output);
 }
 
+// Calculate the gradient of the hidden arcs between the layers using the transfer function derivative
 void neuron::calcHiddenGrads(const layer &nextLayer) {
   double dow = dowSum(nextLayer);
   gradient = dow * neuron::transferFunctionDerivative(output);
 }
 
+// The Transfer function
 double neuron::transferFunction(double x) {
   return tanh(x);
 }
+
 
 double neuron::transferFunctionDerivative(double x) {
   return 1.0 - (tanh(x) * tanh(x));
@@ -233,6 +242,7 @@ void showVals(string label, vector<double> &vec) {
   cout << endl;
 }
 
+// Main running of the network - creating the topology and inputing training data
 int main () {
   training trainingData("*/tmp/training.txt");
 
@@ -267,8 +277,6 @@ int main () {
   }
 
   cout << "DONE!" << endl;
-
-
 
   return 0;
 }
