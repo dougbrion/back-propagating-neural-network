@@ -3,6 +3,10 @@
 #include <cstdlib>
 #include <vector>
 #include <cmath>
+#include <string>
+#include <fstream>
+#include <cassert>
+#include <sstream>
 
 // Use the standard namespace
 using namespace std;
@@ -19,9 +23,21 @@ struct link {
 typedef vector<neuron> layer;
 
 class training {
+public:
+  training(const string filename);
+  bool isEof(void) { return trainingDataFile.eof(); }
+  void getTopology(vector<unsigned> &topology);
 
+  int nextInputs(vector<double> &input);
+  int getTargetOutput(vector<double> &targetOut);
+
+private:
+  ifstream trainingDataFile;
 }
 
+void training::getTopology(vector<unsigned> &topology) {
+  string line;
+}
 // Class for the neuron object
 class neuron {
 public:
@@ -117,6 +133,7 @@ public:
   void feedForward(const vector<double> &inputs);
   void backPropagation(const vector<double> &targets);
   void receiveResults(vector<double> &results) const;
+  double getLatestAvgError(void) const { return averageError; }
 
 // Private members consits of the array of layers in the network itself
 private:
@@ -207,6 +224,15 @@ void network::backPropagation(const vector<double> &targets) {
   }
 }
 
+void showVals(string label, vector<double> &vec) {
+  cout << label << " ";
+  for (int i = 0; i < vec.size(); ++i) {
+    cout << vec[i] << " ";
+  }
+
+  cout << endl;
+}
+
 int main () {
   training trainingData("*/tmp/training.txt");
 
@@ -225,12 +251,24 @@ int main () {
     if (trainingData.nextInputs(input) != topology[0]) {
       break;
     }
-    
+    showVals(": Inputs:", input);
+    myNetwork.feedForward(input);
+
+    myNetwork.receiveResults(result);
+    showVals(": Outputs: ", result);
+
+    trainingData.getTargetOutput(target);
+    showVals(" Targets: ", target);
+
+    myNetwork.backPropagation(target);
+
+    cout << "Network latest average error: " << myNetwork.getLatestAvgError() << endl;
+
   }
 
-  myNetwork.feedForward(input);
-  myNetwork.backPropagation(target);
-  myNetwork.receiveResults(result);
+  cout << "DONE!" << endl;
+
+
 
   return 0;
 }
