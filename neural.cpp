@@ -35,10 +35,68 @@ public:
 
 private:
   ifstream trainingDataFile;
-}
+};
 
 void training::getTopology(vector<unsigned> &topology) {
   string line;
+  string label;
+
+  getLine(trainingDataFile, line);
+  stringstream ss(line);
+  ss >> label;
+  if (this->isEof() || label.compare("topology:") != 0) {
+    abort();
+  }
+
+  while (!ss.eof()) {
+    unsigned n;
+    ss >> n;
+    topology.push_back(n);
+  }
+
+  return;
+}
+
+void training::training(const string filename) {
+  trainingDataFile.open(filename.c_str());
+}
+
+int training::nextInputs(vector<double> &input) {
+  input.clear();
+
+  string line;
+  string label;
+
+  getLine(trainingDataFile, line);
+  stringstream ss(line);
+  ss >> label;
+  if (label.compare("in:") == 0) {
+    double oneValue;
+    while (ss >> oneValue) {
+      input.push_back(oneValue);
+    }
+  }
+
+  return input.size();
+}
+
+int getTargetOutput(vector<double> &targetOut) {
+  targetOut.clear();
+
+  string line;
+  string label;
+
+  getLine(trainingDataFile, line);
+  stringstream ss(line);
+  ss >> label;
+  if (label.compare("out:") == 0) {
+    double oneValue;
+    while (ss >> oneValue) {
+      targetOut.push_back(oneValue);
+    }
+  }
+
+  return targetOut.size();
 }
 
 // Class for the neuron object
@@ -167,6 +225,8 @@ network::network(const vector<unsigned> &topology){
       layers.back().push_back(neuron(numberOutputs, neuronNumber));
       cout << "Made a new Neuron in layer " << layerNumber << endl;
     }
+
+    layers.back().back().setOutput(1.0);
   }
 }
 
