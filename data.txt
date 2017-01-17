@@ -1,0 +1,9999 @@
+Shape: 2 4 1
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 0.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 0.0 1.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 0.0
+Target: 1.0 
+Input: 1.0 1.0
+Target: 0.0 
+Input: 1.0 0.0
+Target: 1.0 
