@@ -1,7 +1,17 @@
-test: test.cpp
-	g++ -o test test.cpp neuron.cpp network.cpp datainput.cpp -W -Wall
+CPPFLAGS += -std=c++11 -W -Wall -g -Wno-unused-parameter
+CPPFLAGS += -I include
 
-all: test;
+bin/test: src/test.cpp src/neuron.cpp src/network.cpp src/datainput.cpp
+	mkdir -p bin
+	g++ $(CPPFLAGS) -o bin/test $^
+
+bin/creation: src/creation
+	mkdir -p bin
+	g++ $(CPPFLAGS) -o bin/creation $^
+
+bin/change_char: src/change_char
+	mkdir -p bin
+	g++ $(CPPFLAGS) -o bin/change_char $^
 
 clean:
-	rm -f test test.o neuron neuron.o network network.o datainput datainput.o
+	rm bin/*
