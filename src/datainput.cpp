@@ -29,15 +29,55 @@ void Data_input::shape_get(std::vector<int> &shape){
   return;
 }
 
-// CIRCUIT SIM INPUT
-// void Data_input::input_get(std::vector<double> &input){
+//CIRCUIT SIM INPUT
+void Data_input::input_get(std::vector<double> &input){
+  input.clear();
+  std::string line, check;
+  double n;
+  getline(m_input_file, line);
+  std::stringstream ss(line);
+  ss >> check;
+  if (check.compare("Input:") == 0){
+    for (int i = 0; i < m_num_inputs; ++i){
+      ss >> n;
+      input.push_back(n);
+    }
+  }
+  return;
+}
+
+
+//CIRCUIT SIM INPUT
+void Data_input::target_get(std::vector<double> &target){
+  target.clear();
+  std::string line, check;
+  double n;
+  getline(m_input_file, line);
+  std::stringstream ss(line);
+  ss >> check;
+  if (check.compare("Target:") == 0){
+    for (int i = 0; i < m_num_targets; ++i){
+      ss >> n;
+      target.push_back(n);
+    }
+  }
+  return;
+}
+//
+// void Data_input::input_target_get(std::vector<double> &input, std::vector<double> &target){
 //   input.clear();
-//   std::string line, check;
+//   target.clear();
+//   std::string line;
 //   double n;
 //   getline(m_input_file, line);
 //   std::stringstream ss(line);
-//   ss >> check;
-//   if (check.compare("Input:") == 0){
+//   ss >> n;
+//   target.push_back(n);
+//   if (n == 0 || n == 1){
+//     // Sorry for the cancer
+//     if (n == 1){
+//       std::cout << "ITS AN A!!!!!" << std::endl;
+//     }
 //     for (int i = 0; i < m_num_inputs; ++i){
 //       ss >> n;
 //       input.push_back(n);
@@ -45,77 +85,37 @@ void Data_input::shape_get(std::vector<int> &shape){
 //   }
 //   return;
 // }
-
-
-// CIRCUIT SIM INPUT
-// void Data_input::target_get(std::vector<double> &target){
-//   target.clear();
-//   std::string line, check;
+//
+// void Data_input::input_get(std::vector<double> &input){
+//   input.clear();
+//   std::string line;
 //   double n;
 //   getline(m_input_file, line);
+//   std::cout << "INPUT" << line << std::endl;
 //   std::stringstream ss(line);
-//   ss >> check;
-//   if (check.compare("Target:") == 0){
-//     for (int i = 0; i < m_num_targets; ++i){
+//   ss >> n;
+//   if (n == 0 || n == 1){
+//     for (int i = 0; i < m_num_inputs; ++i){
 //       ss >> n;
-//       target.push_back(n);
+//       input.push_back(n);
 //     }
 //   }
 //   return;
 // }
-
-void Data_input::input_target_get(std::vector<double> &input, std::vector<double> &target){
-  input.clear();
-  target.clear();
-  std::string line;
-  double n;
-  getline(m_input_file, line);
-  std::stringstream ss(line);
-  ss >> n;
-  target.push_back(n);
-  if (n == 0 || n == 1){
-    // Sorry for the cancer
-    if (n == 1){
-      std::cout << "ITS AN A!!!!!" << std::endl;
-    }
-    for (int i = 0; i < m_num_inputs; ++i){
-      ss >> n;
-      input.push_back(n);
-    }
-  }
-  return;
-}
-
-void Data_input::input_get(std::vector<double> &input){
-  input.clear();
-  std::string line;
-  double n;
-  getline(m_input_file, line);
-  std::cout << "INPUT" << line << std::endl;
-  std::stringstream ss(line);
-  ss >> n;
-  if (n == 0 || n == 1){
-    for (int i = 0; i < m_num_inputs; ++i){
-      ss >> n;
-      input.push_back(n);
-    }
-  }
-  return;
-}
-
-
-void Data_input::target_get(std::vector<double> &target){
-  target.clear();
-  std::string line;
-  double n;
-  getline(m_input_file, line);
-  std::cout << "OUTPUT" << line << std::endl;
-  std::stringstream ss(line);
-  ss >> n;
-  target.push_back(n);
-  return;
-}
-
+//
+//
+// void Data_input::target_get(std::vector<double> &target){
+//   target.clear();
+//   std::string line;
+//   double n;
+//   getline(m_input_file, line);
+//   std::cout << "OUTPUT" << line << std::endl;
+//   std::stringstream ss(line);
+//   ss >> n;
+//   target.push_back(n);
+//   return;
+// }
+//
 bool Data_input::eof() {
   return m_input_file.eof();
 }

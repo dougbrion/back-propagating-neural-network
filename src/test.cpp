@@ -31,8 +31,8 @@ int main(int argc, char *argv[]){
   while(!data.eof()){
 
     // Retrieve the input values
-    //data.input_get(input_vals);
-    data.input_target_get(input_vals, target_vals);
+    data.input_get(input_vals);
+    //data.input_target_get(input_vals, target_vals);
 
     // Feed the input values forward
     network.feed_forward(input_vals);
@@ -41,7 +41,7 @@ int main(int argc, char *argv[]){
     network.receive_result(result_vals);
 
     // Retrieve the target values
-    //data.target_get(target_vals);
+    data.target_get(target_vals);
 
     // Compare results to target and update network
     network.back_propagate(target_vals);
